@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+发布产物/
+*.asplug
+*.as
+*.ias
